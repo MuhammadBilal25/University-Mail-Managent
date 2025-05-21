@@ -1,4 +1,6 @@
 FCAI Computer Network Design - Cisco Packet Tracer Project
+
+
 **📘 Project Overview:**
 This project is a computer network simulation built in Cisco Packet Tracer for the Faculty of Computing and AI (FCAI). The design simulates a departmental structure with three academic departments, each equipped with labs, faculty offices, and classrooms. The network includes DNS and Mail servers, as well as full routing (static and dynamic), DHCP configuration, and subnetting.
 
